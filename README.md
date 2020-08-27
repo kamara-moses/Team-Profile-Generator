@@ -3,6 +3,8 @@
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Team Profile Generator](images/Team-Profile-Generator.gif)
+
 <img src='images/Team-Profile-Generator.png' alt='Profile Generator img'>
 
 ## Project Description:
