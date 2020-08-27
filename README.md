@@ -24,7 +24,7 @@ To install dependencies, run the following:
 npm i
 `
 ## Usage
-run node index.js
+run node app.js
 ## Contributors
 If you would like to contribute to this project please reach out to me on Github or email
 ## Test
