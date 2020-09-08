@@ -3,11 +3,11 @@
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Team Profile Generator](images/Team-Profile-Generator.gif)
+![Team Profile Generator Demo](images/Team-Profile-Generator.gif)
 
 <img src='images/Team-Profile-Generator.png' alt='Profile Generator img'>
 
-## Project Description:
+## Description:
 This is a command line application that can be used by a software engineering team. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
 ## Table of Contents
