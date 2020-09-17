@@ -11,8 +11,8 @@ const outputPath = path.join(OUTPUT_DIR, 'team.html');
 const render = require('./lib/htmlRenderer');
 
 
-var teamMembers = [];
-function buildPage(){
+const teamMembers = [];
+buildPage = () => {
     fs.writeFileSync(outputPath, render(teamMembers), 'utf-8')
 }
 
