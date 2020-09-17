@@ -47,7 +47,7 @@ createTeam = () => {
 
 }
 
-function addManager(){
+addManager = () => {
     inquirer.prompt([{
         type: 'input',
         name: 'managerName',
