@@ -113,7 +113,7 @@ addEngineer = () => {
     });
   }
 
-  function addIntern() {
+  addIntern = () => {
     inquirer.prompt([
       {
         type: 'input',
