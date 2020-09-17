@@ -79,7 +79,7 @@ addManager = () => {
 })
 }
 
-function addEngineer() {
+addEngineer = () => {
     inquirer.prompt([
       {
         type: 'input',
