@@ -16,7 +16,7 @@ buildPage = () => {
     fs.writeFileSync(outputPath, render(teamMembers), 'utf-8')
 }
 
-function createTeam(){
+createTeam = () => {
     inquirer.prompt([
         {
           type: 'list',
